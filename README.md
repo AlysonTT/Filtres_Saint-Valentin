@@ -1,5 +1,8 @@
-# Filtres_Saint-Valentin
-# Projet Traitement d’images - ReadMe
+# Projet Traitement d’images - README
+
+## Note
+
+Lorsque vous utiliserez ce code dans votre propre environnement, assurez-vous de modifier les chemins vers les images et les cascades dans le fichier `main.py` pour correspondre à l'emplacement où vous avez stocké ces fichiers sur votre système. Les chemins actuels sont spécifiques à notre structure de répertoire de projet et doivent être ajustés en conséquence pour garantir le bon fonctionnement du programme.
 
 ## Thème: La Saint Valentin
 
